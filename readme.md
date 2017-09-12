@@ -1,10 +1,10 @@
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
 
 ## Simple Blogging system
-Registering new users 
-Creating Posts with tags
-Uploading Photo with each Post
-Categorize posts using its creation time
+Registering new users <br>
+Creating Posts with tags <br>
+Uploading Photo with each Post <br>
+Categorize posts using its creation time <br>
 
 ## Used Tools 
 laravel <br>
